@@ -1,4 +1,4 @@
-package com.mysql.jdbc.com;
+
 
 //step 1
 import java.sql.*;
@@ -10,7 +10,7 @@ public class MysqlCon {
 	{
 		String url = "jdbc:mysql://localhost:3306/Database_name";
 		String uname = "root";
-		String pass ="Yourname@1010";
+		String pass ="your password";
 		String query = "select * from logindetails";
 		
 		try {
