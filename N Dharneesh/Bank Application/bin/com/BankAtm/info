@@ -1,0 +1,9 @@
+
+Tasks:
+	Add other Features of ATM
+	provide Validation
+	Use Thread Methods to show how current Thread  behaves in flow 
+	
+Working:
+	Multiple threads are created to perform multiple operations such as deposit and withdrawal.
+	Only 3 attempts to enter correct password for each user.
