@@ -1,4 +1,6 @@
-# SMEAJ025
+# SMEAJ025 
+# Java Training
+
 ### 1. Create folder with your name in your PC
 ### 2. Export java files as normal files 
 ### 3. add java files inside your folder 
