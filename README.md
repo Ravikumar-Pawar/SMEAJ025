@@ -1,5 +1,5 @@
 # SMEAJ025 
-# <center>Java Training</center>
+# <align="center">Java Training</center>
 
 ## Task 1 --Multi Threading
 1. Create folder with your name in your PC
