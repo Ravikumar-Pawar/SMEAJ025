@@ -43,7 +43,7 @@
   9. convert collections to an array
   10. sorting collection
 #### 2. write java program using collections
-##### create java collections, add male and female students , collectons should contains these data ID, Name, Gender, department, passoutYear, score
+##### create java collections, add male and female students , collectons should contains these data: ID, Name, Gender, department, passoutYear, score
 
 1. How many male and female students are there?
 2. Print all the students and their information 
