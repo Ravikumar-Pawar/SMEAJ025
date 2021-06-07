@@ -20,8 +20,7 @@
   2. LinkedList
   3. Vector
   4. Stack --Last in first out
-  <br>
-  
+
 #### B. Queue
   1. PriorityQueue -- Internal priority
   2. ArrayDeque --- First in First out manner
