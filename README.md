@@ -15,21 +15,24 @@
 
 ## Task 3 -- Java Collection
 ### perform operation on these collections
-A. List                                 
+#### A. List                                 
   1. ArrayList              
   2. LinkedList
   3. Vector
   4. Stack --Last in first out
-B. Queue
+  <br>
+  
+#### B. Queue
   1. PriorityQueue -- Internal priority
   2. ArrayDeque --- First in First out manner
-C. Set
+  
+#### C. Set
   1. HashSet
   2. LinkedHashSet
   3. TreeSet
 
   
-1. create collection and perform following operations
+#### 1. create collection and perform following operations
   1. add items/elements in collection
   2. add all elements i.e: collection in collection 
   3. remove item on basis of index
