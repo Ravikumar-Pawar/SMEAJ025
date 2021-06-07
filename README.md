@@ -42,5 +42,17 @@
   8. Iterate using for loop
   9. convert collections to an array
   10. sorting collection
- 
+#### 2. write java program using collections
+##### create java collections, add male and female students , collectons should contains these data ID, Name, Gender, department, passoutYear, score
+
+1. How many male and female students are there?
+2. Print all the students and their information 
+3. Print all the department in college
+4. Print the name of students who has graduated in 2020
+5. count number students in each department 
+6. what is average score of each department
+7. name the student who has high score in each department 
+8. name the student who has scored high, consider Gender, e.g: High score in Male, High score in Female
+9. you can add other questions 
+####  consider Engineering college, use suitable list 
 
