@@ -35,10 +35,10 @@ public class MyVector {
 		vector.remove(Integer.valueOf(3));
 		System.out.println("Vector after remove by object: " + vector);
 		// Using Iterator
-		Iterator<Integer> stackIterator = vector.iterator();
+		Iterator<Integer> vectorIterator = vector.iterator();
 		System.out.println("Using Iterator");
-		while (stackIterator.hasNext()) {
-			System.out.println(stackIterator.next());
+		while (vectorIterator.hasNext()) {
+			System.out.println(vectorIterator.next());
 		}
 
 	}
