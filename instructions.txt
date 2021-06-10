@@ -1,0 +1,27 @@
+----------------------------------------------------------------------
+Problem: java calculator 
+Team 1
+Activity: Addition 
+
+Team 2:
+Activity: Subtraction 
+
+Team 3:
+Activity: Multiplication 
+
+Team 4:
+Activity: Division
+
+Team : 5
+Activity: GUI application creating... Jframe
+------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+|Form team with 5/6 members
+|And select your team number
+|
+|Anyone of you represent your team,
+|
+|After your team creation and activity selection
+|Team leader should reach out me
+-------------------------------------------------------------------------
